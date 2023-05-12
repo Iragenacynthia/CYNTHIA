@@ -1,0 +1,58 @@
+adrf4 deuhn AQ	1QOG; P`
+			
+		}
+		ol li ul li{
+			background: ;
+			width: 50px;
+		}
+		marquee{
+			background: deepskyblue;
+			height: 50px;
+					}
+		ol li{
+            list-style: none;
+            float: left;
+            background: red;
+            position: relative;
+            margin-top: 50px;  
+            padding: 10px;
+            width: 18%;
+            cursor: pointer;
+            color: white;
+            font-weight: bold;
+
+		}
+		ol li:hover{
+			background: ;
+			color: black;
+
+		}
+		ol{
+           margin-left: 30px;
+		}
+	ol li:hover ul{
+          display: block;
+          
+	}
+	ul{
+		height: 30px;
+		background-color: indigo;
+		position: relative;
+		top: 0px;
+		font-family: cursive;
+		color: azure;
+
+	}
+	ul:hover{
+		background-color: black;
+		
+	}
+	a{
+		text-decoration: none;
+		color: azure;
+	}
+	a:hover{
+		color: white;
+			
+	}
+	
